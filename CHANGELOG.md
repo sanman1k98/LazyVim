@@ -1,5 +1,13 @@
 # Changelog
 
+## [12.19.1](https://github.com/LazyVim/LazyVim/compare/v12.19.0...v12.19.1) (2024-06-23)
+
+
+### Bug Fixes
+
+* **lazygit:** use `lazy.util.open` on Neovim &lt;= 0.10 ([#3778](https://github.com/LazyVim/LazyVim/issues/3778)) ([8ea3f69](https://github.com/LazyVim/LazyVim/commit/8ea3f690e6017ba37022060a62f1d69fbf3aeaf7))
+* **markdown:** added support for mdx files ([abec8fb](https://github.com/LazyVim/LazyVim/commit/abec8fbb03bdbe881c35401274083f315025a1ed))
+
 ## [12.19.0](https://github.com/LazyVim/LazyVim/compare/v12.18.0...v12.19.0) (2024-06-23)
 
 
